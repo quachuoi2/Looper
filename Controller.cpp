@@ -1,13 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   Controller.cpp                                     :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: qnguyen <qnguyen@student.42.fr>            +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/02/20 04:20:59 by qnguyen           #+#    #+#             */
-/*   Updated: 2022/02/20 04:20:59 by qnguyen          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
+//.cpp file must be present for the Arduino IDE to include the header file
+//to do: find out how to exclude this file
 #include "Controller.h"
